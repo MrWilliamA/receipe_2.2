@@ -1,0 +1,9 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  text-decoration: none;
+}
+.container {
+  display: flex;
+  border: 5px solid blue;
+}
